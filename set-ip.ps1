@@ -61,6 +61,3 @@ if (!(  Test-Path c:\.addressed )) {
     [Microsoft.VisualBasic.Interaction]::MsgBox("Something went wrong renaming your host ($res).  Please reboot.", 0, "Aww Shucks!")
   }
 }  
-
-
-
